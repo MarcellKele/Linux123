@@ -1,5 +1,9 @@
 <<<<<<<<<<<<<< HEAD
 !Hello World!
+<<<<<<< HEAD
 =======
 !!Hello World!
 >>>>>>> Test
+=======
+ez a dev ég
+>>>>>>> Dev
